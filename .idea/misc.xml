@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/axis2_demo" />
+    <file type="web" url="file://$PROJECT_DIR$/WX-CXF" />
+    <type id="Spring" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/serializerDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/axis2_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/xfire-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/WX-CXF/pom.xml" />
+        <option value="$PROJECT_DIR$/zk_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/mongodb-demo/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/spring-jdbc/mongodb-demo/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

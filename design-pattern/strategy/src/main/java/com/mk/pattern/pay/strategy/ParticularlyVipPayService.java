@@ -2,7 +2,7 @@ package com.mk.pattern.pay.strategy;
 
 import com.mk.pattern.pay.UserPayService;
 import org.springframework.beans.factory.InitializingBean;
-import org.springframework.stereotype.Service;
+import org.springframework.stereotype.Component;
 
 import java.math.BigDecimal;
 
@@ -12,7 +12,7 @@ import java.math.BigDecimal;
  * @Date 2021/9/18
  * @Description TODO
  */
-@Service
+@Component
 public class ParticularlyVipPayService implements UserPayService, InitializingBean {
   public BigDecimal quote(BigDecimal orderPrice) {
     if(orderPrice.compareTo(new BigDecimal(30)) > 0){

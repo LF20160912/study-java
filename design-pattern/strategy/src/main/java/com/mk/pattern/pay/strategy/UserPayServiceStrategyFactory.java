@@ -1,6 +1,8 @@
 package com.mk.pattern.pay.strategy;
 
 import com.mk.pattern.pay.UserPayService;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.stereotype.Component;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
@@ -11,6 +13,7 @@ import java.util.concurrent.ConcurrentHashMap;
  * @Date 2021/9/18
  * @Description TODO
  */
+@Component
 public class UserPayServiceStrategyFactory {
   private static Map<String, UserPayService> services =
           new ConcurrentHashMap<String, UserPayService>();

@@ -2,7 +2,7 @@ package com.mk.pattern.pay.strategy;
 
 import com.mk.pattern.pay.UserPayService;
 import org.springframework.beans.factory.InitializingBean;
-import org.springframework.stereotype.Service;
+import org.springframework.stereotype.Component;
 
 import java.math.BigDecimal;
 
@@ -12,7 +12,7 @@ import java.math.BigDecimal;
  * @Date 2021/9/18
  * @Description TODO
  */
-@Service
+@Component
 public class GeneralPayService implements UserPayService, InitializingBean {
   public BigDecimal quote(BigDecimal orderPrice) {
     System.out.println("非会员商品价格为:" + orderPrice.doubleValue());

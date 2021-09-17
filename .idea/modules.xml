@@ -6,7 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/RMI_Server/RMI_Server.iml" filepath="$PROJECT_DIR$/RMI_Server/RMI_Server.iml" />
       <module fileurl="file://$PROJECT_DIR$/WX-CXF/WX-CXF.iml" filepath="$PROJECT_DIR$/WX-CXF/WX-CXF.iml" />
       <module fileurl="file://$PROJECT_DIR$/axis2_demo/axis2_demo.iml" filepath="$PROJECT_DIR$/axis2_demo/axis2_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idempotent-demo/idempotent-demo.iml" filepath="$PROJECT_DIR$/idempotent-demo/idempotent-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/mongodb-demo/mongodb-demo.iml" filepath="$PROJECT_DIR$/mongodb-demo/mongodb-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mongodb-morphia-demo/mongodb-morphia-demo.iml" filepath="$PROJECT_DIR$/mongodb-morphia-demo/mongodb-morphia-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/serializerDemo/serializerDemo.iml" filepath="$PROJECT_DIR$/serializerDemo/serializerDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-jdbc/spring-jdbc.iml" filepath="$PROJECT_DIR$/spring-jdbc/spring-jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/web_test/web_test.iml" filepath="$PROJECT_DIR$/web_test/web_test.iml" />

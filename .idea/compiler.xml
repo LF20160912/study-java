@@ -2,21 +2,26 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="idempotent-demo" />
         <module name="zk_demo" />
         <module name="WX-CXF" />
+        <module name="serializerDemo" />
         <module name="xfire-demo" />
         <module name="mongodb-demo" />
         <module name="axis2_demo" />
-        <module name="serializerDemo" />
+        <module name="mongodb-morphia-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="axis2_demo" target="1.5" />
+      <module name="idempotent-demo" target="1.5" />
       <module name="mongodb-demo" target="1.5" />
+      <module name="mongodb-morphia-demo" target="1.5" />
       <module name="serializerDemo" target="1.8" />
       <module name="spring-jdbc" target="1.8" />
       <module name="web_test" target="1.5" />

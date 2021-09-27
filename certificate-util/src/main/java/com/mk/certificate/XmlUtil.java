@@ -1,6 +1,5 @@
 package com.mk.certificate;
 
-import jdk.internal.org.xml.sax.InputSource;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
@@ -18,19 +17,14 @@ import javax.xml.crypto.dsig.spec.TransformParameterSpec;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
-import java.io.BufferedReader;
-import java.io.ByteArrayInputStream;
-import java.io.IOException;
-import java.io.StringReader;
+import java.io.*;
 import java.security.KeyPair;
+import java.security.KeyStore;
 import java.security.Provider;
 import java.security.PublicKey;
 import java.security.cert.Certificate;
 import java.security.cert.X509Certificate;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 /**
  * @Classname XmlUtil
@@ -62,7 +56,8 @@ public class XmlUtil {
 
   public static void xmlSign(Element element, KeyPair kp, Certificate cert) {
     try {
-      DOMSignContext dsc = new DOMSignContext(kp.getPrivate(), element);
+      KeySelector keySelector = KeySelector.singletonKeySelector(kp.getPublic());
+      DOMSignContext dsc = new DOMSignContext(keySelector, element);
 
       String providerName =
               System.getProperty("jsr105Provider", "org.jcp.xml.dsig.internal.dom.XMLDSigRI");
@@ -143,7 +138,7 @@ public class XmlUtil {
     }
   }
 
-  public static String sign(String xmlMessage,KeyPair kp,Certificate cer) throws ParserConfigurationException, IOException, SAXException {
+  public static String sign(String xmlMessage, KeyPair kp, Certificate cer) throws ParserConfigurationException, IOException, SAXException {
 
     // System.out.println("Before signed message: ");
     // System.out.println(xmlMessage);
@@ -154,8 +149,9 @@ public class XmlUtil {
     dbf.setNamespaceAware(true);
     Document doc;
     DocumentBuilder db = dbf.newDocumentBuilder();
-    InputSource is = new InputSource(new StringReader(xmlMessage));
-    doc = db.parse(String.valueOf(is));
+//    InputSource is = new InputSource(new StringReader(xmlMessage));
+    InputStream is = new ByteArrayInputStream(xmlMessage.getBytes("UTF-8"));
+    doc = db.parse(is);
 
     Element element = doc.getDocumentElement();
 
@@ -177,6 +173,58 @@ public class XmlUtil {
       return sb.toString();
     } catch (IOException e) {
       throw new RuntimeException(e);
+    }
+  }
+
+  public static Map<String, Certificate> loadCertifications(KeyStore ks) {
+    FileInputStream fis = null;
+    Map<String, Certificate> javaKeyStore = new LinkedHashMap();
+    try {
+      Enumeration aliasEnum = ks.aliases();
+      Certificate cert = null;
+
+      while (aliasEnum.hasMoreElements()) {
+        String keyName = (String) aliasEnum.nextElement();
+        cert = ks.getCertificate(keyName);
+        javaKeyStore.put(keyName, cert);
+      }
+
+    } catch (Throwable t) {
+      System.out.println(t.getMessage());
+    } finally {
+      try {
+        if (fis != null) {
+          fis.close();
+        }
+
+      } catch (Exception e) {
+        System.out.println("Failed to close FileInputStream: " + e.getMessage());
+      }
+      return javaKeyStore;
+    }
+  }
+
+  public static KeyStore getKeyStore(String salt, File jksFile) {
+    FileInputStream fis = null;
+    KeyStore ks = null;
+    Map<String, Certificate> javaKeyStore = new LinkedHashMap();
+    try {
+      ks = KeyStore.getInstance(KeyStore.getDefaultType());
+      fis = new FileInputStream(jksFile);
+      ks.load(fis, salt.toCharArray());
+
+    } catch (Throwable t) {
+      System.out.println(t.getMessage());
+    } finally {
+      try {
+        if (fis != null) {
+          fis.close();
+        }
+
+      } catch (Exception e) {
+        System.out.println("Failed to close FileInputStream: " + e.getMessage());
+      }
+      return ks;
     }
   }
 }

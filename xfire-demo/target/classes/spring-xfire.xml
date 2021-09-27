@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+    <!--导入xfire在spirng容器管理中核心对象-->
+    <import resource="classpath:org/codehaus/xfire/spring/xfire.xml" />
+    <!--配置对server包中的@Service类扫描到spring容器中管理-->
+    <context:component-scan base-package="com.mike.xfire.server"/>
+    <bean name="webService" class="org.codehaus.xfire.spring.ServiceBean">
+        <property name="xfire" ref="xfire" />
+        <property name="serviceBean" ref="userService" />
+        <property name="serviceClass" value="com.mike.xfire.server.UserService" />
+        <property name="inHandlers">
+            <list>
+                <ref bean="initAddressingHandler"/>
+            </list>
+        </property>
+    </bean>
+    <bean id="initAddressingHandler" class="org.codehaus.xfire.addressing.AddressingInHandler"/>
+
+</beans>

@@ -8,17 +8,19 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="idempotent-demo" />
+        <module name="dynamic-schedule" />
         <module name="zk_demo" />
         <module name="WX-CXF" />
-        <module name="serializerDemo" />
+        <module name="mongodb-morphia-demo" />
         <module name="xfire-demo" />
         <module name="mongodb-demo" />
         <module name="axis2_demo" />
-        <module name="mongodb-morphia-demo" />
+        <module name="serializerDemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="axis2_demo" target="1.5" />
+      <module name="dynamic-schedule" target="1.8" />
       <module name="idempotent-demo" target="1.5" />
       <module name="mongodb-demo" target="1.5" />
       <module name="mongodb-morphia-demo" target="1.5" />

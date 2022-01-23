@@ -7,6 +7,65 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb2719c5-e55b-458e-aba0-b8a0b69e2474" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_16_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic-schedule/src/main/java/com/mike/study/dynamicschedule/Utils/SpringContextUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic-schedule/src/main/java/com/mike/study/dynamicschedule/config/SchedulingConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic-schedule/src/main/java/com/mike/study/dynamicschedule/demo/DemoTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic-schedule/src/main/java/com/mike/study/dynamicschedule/task/CronTaskRegistar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic-schedule/src/main/java/com/mike/study/dynamicschedule/task/ScheduledTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic-schedule/src/main/java/com/mike/study/dynamicschedule/task/SchedulingRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/design-pattern/pattern" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/pattern" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,6 +80,7 @@
     <ignored path="$PROJECT_DIR$/mongodb-demo/target/" />
     <ignored path="$PROJECT_DIR$/mongodb-morphia-demo/target/" />
     <ignored path="$PROJECT_DIR$/idempotent-demo/target/" />
+    <ignored path="$PROJECT_DIR$/dynamic-schedule/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,86 +110,102 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webservice-nav-test/src/com/ws/nav_client/WeatherTest.java">
+        <entry file="file://$PROJECT_DIR$/dynamic-schedule/src/main/java/com/mike/study/dynamicschedule/DynamicScheduleApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#269#270#0" expanded="true" />
+                <element signature="e#340#341#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webservice-nav-test/src/com/ws/nav_server/demo/WeatherServiceImpl.java">
+        <entry file="file://$PROJECT_DIR$/dynamic-schedule/src/main/java/com/mike/study/dynamicschedule/config/SchedulingConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+            <state relative-caret-position="399">
+              <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webserver-nav/src/com/ws/nav_server/demo/WeatherService.java">
+        <entry file="file://$PROJECT_DIR$/dynamic-schedule/src/main/java/com/mike/study/dynamicschedule/task/ScheduledTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            <state relative-caret-position="315">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webserver-nav/src/com/ws/nav_server/demo/WeatherServiceImpl.java">
+        <entry file="file://$PROJECT_DIR$/dynamic-schedule/src/main/java/com/mike/study/dynamicschedule/task/SchedulingRunnable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            <state relative-caret-position="189">
+              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webserver-nav/src/com/ws/nav_server/App.java">
+        <entry file="file://$PROJECT_DIR$/dynamic-schedule/src/main/java/com/mike/study/dynamicschedule/task/CronTaskRegistar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="13" column="24" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="24" />
+            <state relative-caret-position="1113">
+              <caret line="63" column="32" selection-start-line="63" selection-start-column="32" selection-end-line="63" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#711#712#0" expanded="true" />
+                <element signature="e#741#742#0" expanded="true" />
+                <element signature="e#808#809#0" expanded="true" />
+                <element signature="e#865#866#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/axis2_demo/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webservice-nav-test/src/com/ws/nav_server/demo/GetWeatherInfoByCityName.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="609">
-              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webservice-nav-test/src/com/ws/nav_server/demo/GetWeatherInfoByCityNameResponse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="609">
-              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webservice-nav-test/src/com/ws/nav_server/demo/ObjectFactory.java">
+        <entry file="file://$PROJECT_DIR$/dynamic-schedule/src/main/java/com/mike/study/dynamicschedule/demo/DemoTask.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="441">
-              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#350#351#0" expanded="true" />
+                <element signature="e#381#382#0" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webservice-nav-test/src/com/ws/nav_server/demo/package-info.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/dynamic-schedule/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dynamic-schedule/src/test/java/com/mike/study/dynamicschedule/DynamicScheduleApplicationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -157,15 +233,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/RMI_Server/src/dao/UserDAOImpl.java" />
-        <option value="$PROJECT_DIR$/RMI_Server/src/rmi/RmiServer.java" />
-        <option value="$PROJECT_DIR$/RMI_Client/src/rmi/RmiClient.java" />
-        <option value="$PROJECT_DIR$/RMI_Client/src/dao/UserDAO.java" />
-        <option value="$PROJECT_DIR$/webserver-nav/src/com/ws/nav/demo/WeaherService.java" />
-        <option value="$PROJECT_DIR$/webserver-nav/src/com/ws/nav/demo/WeatherService.java" />
-        <option value="$PROJECT_DIR$/webserver-nav/src/com/ws/nav/demo/WeatherServiceImpl.java" />
-        <option value="$PROJECT_DIR$/webserver-nav/src/com/ws/nav/App.java" />
-        <option value="$PROJECT_DIR$/webserver-nav/src/com/ws/nav_server/App.java" />
         <option value="$PROJECT_DIR$/webserver-nav/src/com/ws/nav/demo/WeatherServiceImplService.java" />
         <option value="$PROJECT_DIR$/webserver-nav/src/com/ws/nav_client/WeatherTest.java" />
         <option value="$PROJECT_DIR$/webservice-nav-test/src/com/ws/nav_client/WeatherTest.java" />
@@ -208,6 +275,15 @@
         <option value="$PROJECT_DIR$/idempotent-demo/pom.xml" />
         <option value="$PROJECT_DIR$/idempotent-demo/src/main/java/com/mike/study/idempotentdemo/commoon/JedisUtil.java" />
         <option value="$PROJECT_DIR$/webserver-nav/src/com/ws/nav_server/demo/WeatherService.java" />
+        <option value="$PROJECT_DIR$/dynamic-schedule/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/dynamic-schedule/src/main/java/com/mike/study/dynamicschedule/DynamicScheduleApplication.java" />
+        <option value="$PROJECT_DIR$/dynamic-schedule/src/main/java/com/mike/study/dynamicschedule/config/SchedulingConfig.java" />
+        <option value="$PROJECT_DIR$/dynamic-schedule/src/main/java/com/mike/study/dynamicschedule/task/ScheduleTask.java" />
+        <option value="$PROJECT_DIR$/dynamic-schedule/src/main/java/com/mike/study/dynamicschedule/Utils/SpringContextUtils.java" />
+        <option value="$PROJECT_DIR$/dynamic-schedule/src/main/java/com/mike/study/dynamicschedule/task/SchedulingRunnable.java" />
+        <option value="$PROJECT_DIR$/dynamic-schedule/src/main/java/com/mike/study/dynamicschedule/task/ScheduledTask.java" />
+        <option value="$PROJECT_DIR$/dynamic-schedule/src/main/java/com/mike/study/dynamicschedule/task/CronTaskRegistar.java" />
+        <option value="$PROJECT_DIR$/dynamic-schedule/src/main/java/com/mike/study/dynamicschedule/demo/DemoTask.java" />
       </list>
     </option>
   </component>
@@ -244,7 +320,7 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="70" />
     <option name="width" value="1745" />
     <option name="height" value="1040" />
@@ -255,9 +331,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -270,7 +346,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
@@ -375,6 +451,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DynamicScheduleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dynamic-schedule" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mike.study.dynamicschedule.DynamicScheduleApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.App" />
@@ -422,6 +505,10 @@
       <workItem from="1607437292281" duration="35000" />
       <workItem from="1631894074500" duration="623000" />
       <workItem from="1632748625059" duration="189000" />
+      <workItem from="1634655061411" duration="4194000" />
+      <workItem from="1634739959689" duration="4020000" />
+      <workItem from="1634826064621" duration="3829000" />
+      <workItem from="1642837458565" duration="781000" />
     </task>
     <task id="LOCAL-00001" summary="study">
       <created>1579192087044</created>
@@ -434,7 +521,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81690000" />
+    <option name="totallyTimeSpent" value="94514000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -446,9 +533,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="56" y="0" width="1396" height="832" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49756098" visible="true" weight="0.27503738" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49756098" visible="true" weight="0.19839142" />
       <window_info id="Structure" order="1" sideWeight="0.502439" side_tool="true" weight="0.16230717" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -456,7 +543,7 @@
       <window_info id="Web" order="5" sideWeight="0.502439" side_tool="true" weight="0.16230717" />
       <window_info id="JRebel" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.20497803" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.20381232" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4988541" weight="0.30473372" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4988541" weight="0.12781955" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -473,6 +560,7 @@
       <window_info anchor="bottom" id="Database Console" order="15" weight="0.32932332" />
       <window_info anchor="bottom" id="SVN Repositories" order="16" visible="true" weight="0.32919255" />
       <window_info anchor="bottom" id="JRebel Console" order="17" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Executor" order="18" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24980901" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24980901" />
@@ -543,123 +631,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/WX-CXF/src/main/java/com/mike/cxf/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/video/Java/软谋/java第三期/javavip03_45_zk的zab协议及分布式排他锁和共享锁原理讲解及代码实现/javavip03_45_zk的zab协议及分布式排他锁和共享锁原理讲解及代码实现/zkdemo/src/main/java/com/demo/zk/lock/AppTest1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
-          <folding>
-            <element signature="e#524#1452#0" expanded="true" />
-            <element signature="e#1451#1452#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/video/Java/软谋/java第三期/javavip03_45_zk的zab协议及分布式排他锁和共享锁原理讲解及代码实现/javavip03_45_zk的zab协议及分布式排他锁和共享锁原理讲解及代码实现/zkdemo/src/main/java/com/demo/zk/lock/DistributedLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="939">
-          <caret line="169" selection-start-line="169" selection-end-line="169" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2800#2808#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/video/Java/软谋/java第三期/javavip03_45_zk的zab协议及分布式排他锁和共享锁原理讲解及代码实现/javavip03_45_zk的zab协议及分布式排他锁和共享锁原理讲解及代码实现/zkdemo/src/main/java/com/demo/zk/lock/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-215">
-          <caret line="41" column="50" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="50" />
-          <folding>
-            <element signature="e#559#1487#0" expanded="true" />
-            <element signature="e#1486#1487#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zk_demo/src/main/java/com/mike/zk/lock/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1092">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zk_demo/src/main/java/com/mike/zk/lock/DistributedLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="119" selection-start-line="119" selection-end-line="119" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zk_demo/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-jdbc/src/main/java/com/mike/study/App.java" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/b8aa0c6c-0872-4130-b5b3-5ca0171fb269/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4ac48f56-2317-47ac-a8b9-1fba3d6da1ac/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Install/apache-maven-3.6.1/repository/org/springframework/spring-context/5.2.0.RELEASE/spring-context-5.2.0.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class" />
-    <entry file="file://$PROJECT_DIR$/spring-jdbc/src/main/java/com/mike/study/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-jdbc/src/main/java/com/mike/study/StudentDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-jdbc/spring-jdbc.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-jdbc/src/main/java/com/mike/study/JdbcApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-jdbc/src/main/java/com/mike/study/StudentMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-jdbc/src/main/resources/jdbcNormal.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -693,14 +664,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="586">
           <caret line="49" column="39" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mongodb-demo/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -773,9 +736,6 @@
           <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web_test/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="jar://D:/Install/apache-maven-3.6.1/repository/org/mongodb/mongodb-driver/3.11.0/mongodb-driver-3.11.0.jar!/com/mongodb/client/MongoCollection.class" />
     <entry file="jar://D:/Install/apache-maven-3.6.1/repository/org/mongodb/mongodb-driver/3.11.0/mongodb-driver-3.11.0.jar!/com/mongodb/client/MongoClients.class" />
@@ -855,9 +815,175 @@
     <entry file="file://$PROJECT_DIR$/webservice-nav-test/src/com/ws/nav_server/demo/package-info.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/web_test/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/axis2_demo/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongodb-demo/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serializerDemo/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://D:/Install/apache-maven-3.6.1/repository/org/springframework/spring-core/5.2.12.RELEASE/spring-core-5.2.12.RELEASE.jar!/org/springframework/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="348" column="26" selection-start-line="348" selection-start-column="13" selection-end-line="348" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_test/web_test.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dynamic-schedule/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/JDK1.8/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42777">
+          <caret line="2124" column="75" selection-start-line="2124" selection-start-column="61" selection-end-line="2124" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dynamic-schedule/src/main/java/com/mike/study/dynamicschedule/Utils/SpringContextUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#747#748#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
+            <element signature="e#851#852#0" expanded="true" />
+            <element signature="e#907#908#0" expanded="true" />
+            <element signature="e#1089#1090#0" expanded="true" />
+            <element signature="e#1143#1144#0" expanded="true" />
+            <element signature="e#1195#1196#0" expanded="true" />
+            <element signature="e#1248#1249#0" expanded="true" />
+            <element signature="e#1312#1313#0" expanded="true" />
+            <element signature="e#1361#1362#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Install/apache-maven-3.6.1/repository/org/springframework/spring-context/5.2.12.RELEASE/spring-context-5.2.12.RELEASE.jar!/org/springframework/scheduling/config/CronTask.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#628#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/JDK1.8/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="271" column="6" selection-start-line="271" selection-start-column="6" selection-end-line="271" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dynamic-schedule/src/main/java/com/mike/study/dynamicschedule/DynamicScheduleApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dynamic-schedule/src/main/java/com/mike/study/dynamicschedule/config/SchedulingConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dynamic-schedule/src/main/java/com/mike/study/dynamicschedule/task/ScheduledTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dynamic-schedule/src/main/java/com/mike/study/dynamicschedule/task/SchedulingRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dynamic-schedule/src/main/java/com/mike/study/dynamicschedule/task/CronTaskRegistar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1113">
+          <caret line="63" column="32" selection-start-line="63" selection-start-column="32" selection-end-line="63" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#741#742#0" expanded="true" />
+            <element signature="e#808#809#0" expanded="true" />
+            <element signature="e#865#866#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dynamic-schedule/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dynamic-schedule/src/test/java/com/mike/study/dynamicschedule/DynamicScheduleApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dynamic-schedule/src/main/java/com/mike/study/dynamicschedule/demo/DemoTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
@@ -870,7 +996,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -913,11 +1038,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring|spring-jdbc</last-edited>
+          <last-edited>zk_demo</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

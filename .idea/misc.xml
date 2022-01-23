@@ -17,6 +17,7 @@
         <option value="$PROJECT_DIR$/mongodb-demo/pom.xml" />
         <option value="$PROJECT_DIR$/mongodb-morphia-demo/pom.xml" />
         <option value="$PROJECT_DIR$/idempotent-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/dynamic-schedule/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

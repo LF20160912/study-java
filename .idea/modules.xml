@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/RMI_Server/RMI_Server.iml" filepath="$PROJECT_DIR$/RMI_Server/RMI_Server.iml" />
       <module fileurl="file://$PROJECT_DIR$/WX-CXF/WX-CXF.iml" filepath="$PROJECT_DIR$/WX-CXF/WX-CXF.iml" />
       <module fileurl="file://$PROJECT_DIR$/axis2_demo/axis2_demo.iml" filepath="$PROJECT_DIR$/axis2_demo/axis2_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamic-schedule/dynamic-schedule.iml" filepath="$PROJECT_DIR$/dynamic-schedule/dynamic-schedule.iml" />
       <module fileurl="file://$PROJECT_DIR$/idempotent-demo/idempotent-demo.iml" filepath="$PROJECT_DIR$/idempotent-demo/idempotent-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/mongodb-demo/mongodb-demo.iml" filepath="$PROJECT_DIR$/mongodb-demo/mongodb-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/mongodb-morphia-demo/mongodb-morphia-demo.iml" filepath="$PROJECT_DIR$/mongodb-morphia-demo/mongodb-morphia-demo.iml" />

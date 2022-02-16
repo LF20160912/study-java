@@ -272,9 +272,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -451,6 +451,7 @@
       <workItem from="1634826064621" duration="3829000" />
       <workItem from="1642837458565" duration="781000" />
       <workItem from="1644417949214" duration="328000" />
+      <workItem from="1645022577358" duration="21000" />
     </task>
     <task id="LOCAL-00001" summary="study">
       <created>1579192087044</created>
@@ -463,7 +464,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94842000" />
+    <option name="totallyTimeSpent" value="94863000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -477,7 +478,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49756098" visible="true" weight="0.19772118" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49756098" visible="true" weight="0.19705094" />
       <window_info id="Structure" order="1" sideWeight="0.502439" side_tool="true" weight="0.16230717" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />

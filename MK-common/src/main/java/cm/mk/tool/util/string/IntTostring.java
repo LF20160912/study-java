@@ -13,7 +13,7 @@ public class IntTostring {
     StringFactory.register(int.class.getName(),currentEnty);
   }
 
-  public String toString(){
-    return "value:"+value;
+  public String toString() {
+    return "value:" + value;
   }
 }
